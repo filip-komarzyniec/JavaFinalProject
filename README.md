@@ -1,5 +1,4 @@
 # JavaFinalProject 
----
 This project is not so typical web crawler. Despite the functionality of downloading things from the web, a user is presented an interfece within one can choose not only the character but also a wide range variety of boots and weapons, each of them adding up to character's attributes, helping him to win the battle against the oponent.  
 So the program is also some sort of a battle simulator.  
 Let me briefly discuss the use of every class...
